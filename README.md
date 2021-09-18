@@ -2,6 +2,8 @@
 
 Get data about tokens & pools
 
+Currently, it gets info about Saber
+
 ## Usage
 
 Requires Python 3.8+
